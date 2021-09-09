@@ -34,7 +34,7 @@ mv Programs/*.py Programs/"Python 3"
 touch Homework/POL141/Essay.txt
 
 # Task 11
-ls
+ls ../ 
 
 # Task 12
 : '
